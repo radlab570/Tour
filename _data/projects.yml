@@ -1,0 +1,14 @@
+- title: "Project One"
+  description: "An amazing project with stunning results."
+  image: "/assets/images/barb.jpg"
+  rating: 4
+
+# - title: "Project Two"
+#   description: "Another innovative solution to a tough problem."
+#   image: "/assets/images/project2.jpg"
+#   rating: 5
+
+# - title: "Project Three"
+#   description: "Creative and unique project highlights."
+#   image: "/assets/images/project3.jpg"
+#   rating: 3
